@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">🎓 Software Developer | Final-year Mathematics and Computer Science student.</h3>
+<h3 align="center">🎓 Software Developer | Mathematics and Computer Science Graduate.</h3>
 
 - 🔭 I’m currently working on [Metropoint](https://play.google.com/store/apps/details?id=com.ludablack.metropoint&pli=1)
 
